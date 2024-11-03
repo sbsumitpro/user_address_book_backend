@@ -1,0 +1,2 @@
+PORT = 3100
+MONGO_URL = mongodb+srv://sbsumitpro:XXXX@cluster0.pst1e.mongodb.net/User_AddressBook_Assignment?retryWrites=true&w=majority
